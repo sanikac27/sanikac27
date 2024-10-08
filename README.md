@@ -1,24 +1,27 @@
-# 👾 $ whoami
-## Sanika Chougule
+<!-- Animated Introduction -->
+<h1 align="center">
+  👾 <code>$ whoami</code>  
+  <span style="color:#00FF00">Sanika Chougule</span>  
+</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6Zt3g5p5fSxWkN8s/giphy.gif" alt="Hacker Animation" width="500">
+  <img src="https://github.com/sanikac27/sanikac27/assets/hacker.gif" alt="Hacker Animation" width="500">
 </p>
 
+<!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sanikac27&style=for-the-badge&color=brightgreen" alt="Profile Views">
 </p>
 
 ---
 
-### 🚀 About Me
-
+### 🚀 **About Me**
 <p align="center">
-  <img src="https://img.shields.io/badge/BTech%20in%20Computer%20Science-%23FFD700?style=for-the-badge&logo=graduation-cap" alt="BTech Badge">
-  <img src="https://img.shields.io/badge/Diploma%20in%20Computer%20Engineering-%2300FF00?style=for-the-badge&logo=computer" alt="Diploma Badge">
+  <img src="https://img.shields.io/badge/BTech%20in%20Computer%20Science-%23FFD700?style=for-the-badge&logo=graduation-cap">
+  <img src="https://img.shields.io/badge/Diploma%20in%20Computer%20Engineering-%2300FF00?style=for-the-badge&logo=computer">
 </p>
 
-- 💻 **BTech in Computer Science** @ Walchand Institute of Technology  
+- 💻 BTech in **Computer Science** @ Walchand Institute of Technology  
 - 🎓 **Diploma** in Computer Engineering from Government Polytechnic Karad  
 - 🐍 Proficient in **Python** | ☕ Intermediate in **Java**  
 - ✍️ Writing tech articles on [Medium](https://medium.com/@sanikaschougule)  
@@ -27,8 +30,7 @@
 
 ---
 
-### 🔥 GitHub Stats
-
+### 🔥 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanikac27&show_icons=true&theme=radical" alt="Sanika's GitHub Stats" height="150">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanikac27&theme=dark" alt="Sanika's Streak" height="150">
@@ -40,7 +42,14 @@
 
 ---
 
-### 📂 My Repositories
+### 📂 **My Repositories**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanikac27&repo=Python&theme=radical" alt="Repo 1">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanikac27&repo=LinuxNotes&theme=radical" alt="Repo 2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanikac27&repo=sanikac27&theme=radical" alt="Repo 3">
+</p>
+
+<!-- View All Repositories Button -->
 <p align="center">
   <a href="https://github.com/sanikac27?tab=repositories">
     <img src="https://img.shields.io/badge/View%20All%20Repositories-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="View All Repos">
@@ -49,8 +58,7 @@
 
 ---
 
-### 🌐 Connect with Me
-
+### 🌐 **Connect with Me**
 <p align="center">
   <a href="mailto:sanikaschougule@gmail.com">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge">
@@ -74,3 +82,4 @@
 
 ---
 
+<!-- Footer removed as per request -->
