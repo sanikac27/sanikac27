@@ -31,14 +31,40 @@
 ---
 
 ### 🔥 **GitHub Stats**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanikac27&show_icons=true&theme=radical" alt="Sanika's GitHub Stats" height="150">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanikac27&theme=dark" alt="Sanika's Streak" height="150">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanikac27&layout=compact&theme=radical" alt="Top Languages" height="150">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sanikac27&theme=dracula" alt="Contribution Graph" height="150">
-</p>
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=sanikac27&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true" height="154" alt="Stats Graph, Under maintenance :("  />
+
+<br>
+<br>
+
+  <img src="https://streak-stats.demolab.com?user=sanikac27&locale=en&mode=daily&theme=react&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D" height="155" alt="Streak Graph, Under maintenance :("  />
+
+<br>
+<br>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanikac27&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&custom_title=Languages%20used" height="154" alt="Languages Graph, Under maintenance :("  />
+</div>
+
+<br>
+<br>
+
+
+<br>
+<div align="center">
+  
+# Github Contribution Graph
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanikac27&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</br></br>
+
+
+</div>
+  
+<br>
+
+
+<div>
+
 
 ---
 
