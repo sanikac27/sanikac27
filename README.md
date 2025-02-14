@@ -4,10 +4,6 @@
   <span style="color:#00FF00">Sanika Chougule</span>  
 </h1>
 
-<p align="center">
-  <img src="https://github.com/sanikac27/sanikac27/assets/hacker.gif" alt="Hacker Animation" width="500">
-</p>
-
 <!-- Profile Views Counter -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sanikac27&style=for-the-badge&color=brightgreen" alt="Profile Views">
@@ -30,34 +26,29 @@
 
 ---
 
-### 🔥 **GitHub Stats**
+### 🔥 **GitHub Stats & Activity**
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=sanikac27&show_icons=true&theme=radical&count_private=true&hide_border=true" height="154" alt="GitHub Stats"  />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=sanikac27&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide=cpp" height="180" alt="GitHub Stats"/>
   <br>
   <br>
-
-  <img src="https://streak-stats.demolab.com?user=sanikac27&theme=radical&hide_border=true" height="155" alt="GitHub Streak"  />
-
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanikac27&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
   <br>
   <br>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sanikac27&layout=compact&theme=radical&hide_border=true&langs_count=8" height="154" alt="Top Languages"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanikac27&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=cpp" height="180" alt="Top Languages Used"/>
 </div>
 
 ---
 
 ### 🚀 **GitHub Contribution Graph**
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanikac27&theme=radical&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sanikac27&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph"/>
 </div>
 
 ---
 
 ### 🏆 **GitHub Achievements**
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanikac27&theme=radical&no-frame=true&margin-w=10&margin-h=10&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sanikac27&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=7" alt="Trophies" />
 </div>
 
 ---
