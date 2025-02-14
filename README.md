@@ -72,13 +72,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sanikac27&theme=flat&no-frame=true&margin-w=30&margin-h=10&column=7" alt="trophies" />
 </div>
 
-<!-- View All Repositories Button -->
-<p align="center">
-  <a href="https://github.com/sanikac27?tab=repositories">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" alt="View All Repos">
-  </a>
-</p>
-
 ---
 
 ### 🌐 **Connect with Me**
