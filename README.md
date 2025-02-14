@@ -72,15 +72,6 @@
   <img src="https://github-profile-trophy.vercel.app/?username=sanikac27&theme=flat&no-frame=true&margin-w=30&margin-h=10&column=7" alt="trophies" />
 </div>
 
-###
-
-### 📂 **My Repositories**
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanikac27&repo=Python&theme=radical" alt="Repo 1">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanikac27&repo=LinuxNotes&theme=radical" alt="Repo 2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanikac27&repo=sanikac27&theme=radical" alt="Repo 3">
-</p>
-
 <!-- View All Repositories Button -->
 <p align="center">
   <a href="https://github.com/sanikac27?tab=repositories">
