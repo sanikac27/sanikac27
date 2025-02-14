@@ -47,10 +47,6 @@
 </div>
 
 <br>
-<br>
-
-
-<br>
 <div align="center">
   
 # Github Contribution Graph
