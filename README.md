@@ -20,7 +20,7 @@
 - 💻 BTech in **Computer Science** @ Walchand Institute of Technology  
 - 🎓 **Diploma** in Computer Engineering from Government Polytechnic Karad   
 - ✍️ Writing tech articles on [Medium](https://medium.com/@sanikaschougule)  
-- 📊 Passionate about **Web Development**, **Data Science**, **Cybersecurity**, and **AI/ML**  
+- 📊 Passionate about **Data Science**, **Web Development**, **Cybersecurity**, and **AI/ML**  
 - 💬 Strong skills in **communication**, **presentation**, **elocution**, **anchoring**, and **writing**
 
 ---
