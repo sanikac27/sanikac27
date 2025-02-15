@@ -46,13 +46,6 @@
 
 ---
 
-### 🏆 **GitHub Achievements**
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanikac27&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=7" alt="Trophies" />
-</div>
-
----
-
 ### 🌐 **Connect with Me**
 <p align="center">
   <a href="mailto:sanikaschougule@gmail.com">
