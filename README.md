@@ -23,6 +23,10 @@
 - 📊 Passionate about **Data Science**, **Web Development**, **Cybersecurity**, and **AI/ML**  
 - 💬 Strong skills in **communication**, **presentation**, **elocution**, **anchoring**, and **writing**
 
+## 📖 Latest Medium Articles
+<!-- MEDIUM-ACTIVITY-START -->
+<!-- MEDIUM-ACTIVITY-END -->
+
 ---
 
 ### 🔥 **GitHub Stats & Activity**
