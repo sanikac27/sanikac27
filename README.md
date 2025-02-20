@@ -24,8 +24,8 @@
 - 💬 Strong skills in **communication**, **presentation**, **elocution**, **anchoring**, and **writing**
 
 ## 📖 Latest Medium Articles
-<!-- MEDIUM-ACTIVITY-START -->
-<!-- MEDIUM-ACTIVITY-END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
