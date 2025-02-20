@@ -1,7 +1,7 @@
 import feedparser
 import markdownify
 
-MEDIUM_RSS_FEED = "https://medium.com/feed/@sanikachougule"
+MEDIUM_RSS_FEED = "https://medium.com/feed/@sanikaschougule"
 
 # Fetch Medium RSS Feed
 feed = feedparser.parse(MEDIUM_RSS_FEED)
