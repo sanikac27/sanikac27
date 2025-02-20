@@ -1,37 +1,26 @@
-name: Update README with Medium Articles
+name: Update Medium Stats
 
 on:
   schedule:
-    - cron: '0 */12 * * *'  # Runs every 12 hours
-  workflow_dispatch:  # Allows manual trigger
+    - cron: '0 0 * * *'  # Runs daily at midnight
+  workflow_dispatch: # Allows manual run
 
 jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+      - name: Checkout Repository
+        uses: actions/checkout@v3
 
-      - name: Set up Python
-        uses: actions/setup-python@v4
+      - name: Fetch Medium Stats
+        uses: gautamkrishnar/blog-post-workflow@master
         with:
-          python-version: '3.10'
+          feed_list: "https://medium.com/feed/@sanikachougule"  # Your Medium RSS feed
 
-      - name: Install dependencies
-        run: pip install feedparser
-
-      - name: Run Python Script
-        run: |
-          cd scripts
-          python update_medium.py
-
-      - name: Debug - List Files
-        run: ls -R
-
-      - name: Commit and push if changed
+      - name: Commit and Push Changes
         run: |
           git config --global user.name "GitHub Actions"
-          git config --global user.email "github-actions@github.com"
+          git config --global user.email "actions@github.com"
           git add README.md
-          git diff --quiet && git diff --staged --quiet || git commit -m "Updated Medium articles in README"
+          git commit -m "Updated Medium Stats" || echo "No changes to commit"
           git push
