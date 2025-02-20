@@ -15,7 +15,7 @@ jobs:
       - name: Fetch Medium Stats
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://medium.com/feed/@sanikachougule"  # Your Medium RSS feed
+          feed_list: "https://medium.com/feed/@sanikaschougule"  # Your Medium RSS feed
 
       - name: Commit and Push Changes
         run: |
