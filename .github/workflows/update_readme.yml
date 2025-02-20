@@ -20,8 +20,10 @@ jobs:
       - name: Install dependencies
         run: pip install feedparser
 
-      - name: Run the script
-        run: python scripts/update_medium.py
+      - name: Run Python Script
+        run: |
+          cd scripts
+          python update_medium.py
 
       - name: Commit and push if changed
         run: |
