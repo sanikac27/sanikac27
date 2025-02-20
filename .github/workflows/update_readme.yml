@@ -25,6 +25,9 @@ jobs:
           cd scripts
           python update_medium.py
 
+      - name: Debug - List Files
+        run: ls -R
+
       - name: Commit and push if changed
         run: |
           git config --global user.name "GitHub Actions"
