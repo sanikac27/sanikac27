@@ -39,9 +39,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=sanikac27&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&hide=cpp" height="180" alt="GitHub Stats"/>
   <br>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanikac27&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
-  <br>
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanikac27&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=cpp" height="180" alt="Top Languages Used"/>
 </div>
 
