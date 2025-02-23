@@ -25,11 +25,11 @@
 
 ## 📖 Latest Medium Articles
 <!-- BLOG-POST-LIST:START -->
+- [Google Cloud Arcade 2025: The Ultimate Beginner’s Guide to Kickstart Your Cloud Journey](https://medium.com/@sanikaschougule/google-cloud-arcade-2025-the-ultimate-beginners-guide-to-kickstart-your-cloud-journey-60f2bd169bfa?source=rss-c9736430b454------2)
 - [Unlocking the Power of RDBMS: Keys, Schema Design, and Data Integrity](https://medium.com/@sanikaschougule/unlocking-the-power-of-rdbms-keys-schema-design-and-data-integrity-804b56016d23?source=rss-c9736430b454------2)
 - [The Power of Databases: Everything You Need to Know About DBMS](https://medium.com/@sanikaschougule/the-power-of-databases-everything-you-need-to-know-about-dbms-d16cefa9c35d?source=rss-c9736430b454------2)
 - [Mastering Exception Handling in Python: A Complete Guide](https://medium.com/@sanikaschougule/mastering-exception-handling-in-python-a-complete-guide-ab1262b8f33f?source=rss-c9736430b454------2)
 - [Mastering Python: Packages, Modules, and File Handling Explained](https://medium.com/@sanikaschougule/mastering-python-packages-modules-and-file-handling-explained-53cc498cb533?source=rss-c9736430b454------2)
-- [Python random Module Explained: Generating Randomness in Your Code](https://medium.com/@sanikaschougule/python-random-module-explained-generating-randomness-in-your-code-1908b95db3a1?source=rss-c9736430b454------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
