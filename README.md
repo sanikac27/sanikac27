@@ -25,11 +25,11 @@
 
 ## 📖 Latest Medium Articles
 <!-- BLOG-POST-LIST:START -->
+- [Crack VARC “Odd One Out” Questions Like a Pro: Complete Guide for CAT Aspirants](https://medium.com/@sanikaschougule/crack-varc-odd-one-out-questions-like-a-pro-complete-guide-for-cat-aspirants-8598e0a8a353?source=rss-c9736430b454------2)
+- [Mastering CAT VARC: Your Ultimate Guide to Reading Comprehension, Reasoning &amp; Verbal Skills](https://medium.com/@sanikaschougule/mastering-cat-varc-your-ultimate-guide-to-reading-comprehension-reasoning-verbal-skills-4d84b6525742?source=rss-c9736430b454------2)
 - [Cracking Percentages for CAT: The Only Guide You’ll Ever Need](https://medium.com/@sanikaschougule/cracking-percentages-for-cat-the-only-guide-youll-ever-need-c72d2e6972a5?source=rss-c9736430b454------2)
 - [Google Cloud Arcade 2025: The Ultimate Beginner’s Guide to Kickstart Your Cloud Journey](https://medium.com/@sanikaschougule/google-cloud-arcade-2025-the-ultimate-beginners-guide-to-kickstart-your-cloud-journey-60f2bd169bfa?source=rss-c9736430b454------2)
 - [Unlocking the Power of RDBMS: Keys, Schema Design, and Data Integrity](https://medium.com/@sanikaschougule/unlocking-the-power-of-rdbms-keys-schema-design-and-data-integrity-804b56016d23?source=rss-c9736430b454------2)
-- [The Power of Databases: Everything You Need to Know About DBMS](https://medium.com/@sanikaschougule/the-power-of-databases-everything-you-need-to-know-about-dbms-d16cefa9c35d?source=rss-c9736430b454------2)
-- [Mastering Exception Handling in Python: A Complete Guide](https://medium.com/@sanikaschougule/mastering-exception-handling-in-python-a-complete-guide-ab1262b8f33f?source=rss-c9736430b454------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
